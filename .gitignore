@@ -169,3 +169,7 @@ cython_debug/
 
 *.3mf
 *.gcode
+
+# Local planning/working files — never commit
+PLANNING.md
+sslkeys.log
